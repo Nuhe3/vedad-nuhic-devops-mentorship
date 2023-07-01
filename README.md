@@ -1,12 +1,16 @@
-## For week-3 task I have completed the following:
+## This repository is associated to DevOps mentorship program 2023
 
-✅ Read chapter 13, 14, 15 ,16 in Linux Command Line and Scripting Book.<br/>
-✅ Went through each script in chapter 13 and executed them.<br/>
-✅ Went through each script in chapter 14 and executed them.<br/>
-✅ Went through each script in chapter 15 and executed them.<br/>
-✅ Went through each script in chapter 16 and executed them.<br/>
-✅ Took screenshots of executed scripts.<br/>
-✅ Create PR - post screenshots inside of it.<br/>
-✅ Post PR as a comment on the ticket.<br/>
-<br/>
-All files regarding week 3 task can be found inside week-3 directory.
+
+- *Main Repository is available on link [DevOps mentorship main repository](https://github.com/allops-solutions/devops-aws-mentorship-program)*
+
+[![My Skills](https://skillicons.dev/icons?i=aws,git,linux,ansible,docker)](https://skillicons.dev)
+
+### *Repository contains*
+- [x] Folders arranged by weeks, containing solutions for TASK assigmens related to the same week
+- [x] Vedad's notes related to weekly lectures and additional informations
+
+#### Provided by AWS Community Bosnia
+- *Follow us and be part of great community* 
+
+>**Note**
+> Most of the files with explanation are written in native languages spoken in Bosnia and Hercegovina, with exception that some explanation files are also written in English.
